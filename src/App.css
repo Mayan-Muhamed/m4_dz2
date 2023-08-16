@@ -1,0 +1,12 @@
+
+.square {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  margin-top: 100px;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
